@@ -1,0 +1,21 @@
+@import "compass/css3"; //calls compass mixims
+
+
+/* styles */
+.user img {
+	width:0;
+	margin:0;
+	float:left;    
+	@include transition (all 1s ease);
+}
+.margin-top {
+	margin-top:20px;
+}
+
+.fadein img {
+    opacity: 1; 
+	width:31%;
+	height:auto;
+	margin:1%;
+}
+

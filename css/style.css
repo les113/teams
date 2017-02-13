@@ -1,0 +1,21 @@
+/* styles */
+/* line 5, ../sass/style.scss */
+.user img {
+  width: 0;
+  margin: 0;
+  float: left;
+  -moz-transition: all 1s ease;
+  -o-transition: all 1s ease;
+  -webkit-transition: all 1s ease;
+  transition: all 1s ease; }
+
+/* line 11, ../sass/style.scss */
+.margin-top {
+  margin-top: 20px; }
+
+/* line 15, ../sass/style.scss */
+.fadein img {
+  opacity: 1;
+  width: 31%;
+  height: auto;
+  margin: 1%; }
